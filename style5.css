@@ -1,0 +1,12 @@
+/*em: is simply the font size
+inset: CSS property is a shorthand that corresponds to the top, right, bottom, and/or left properties.*/
+#square {
+    width: 20em;
+    height: 20em;
+    border: 2px inset gray;
+    margin-bottom: 1em;
+  }
+  
+  button {
+    padding: .5em 2em;
+  }​
